@@ -28,7 +28,7 @@ Create a table called "students" that has the following attributes on it:
 Insert the following data:
 
 id | firstname | lastname | age
--- + --------- + -------- + ----
+-- | --------- | -------- | ----
 1  | Fred | Flintstone | 35
 2  | Wilma | Flintstone | 29
 3  | Barney | Rubble | 33
