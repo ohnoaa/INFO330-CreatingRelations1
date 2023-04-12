@@ -112,5 +112,3 @@ Make sure the following students are enrolled in the following list of courses:
     * Create a new table, `timeslots`, that contain the start and end times that courses can be held and an `id` primary key. 
     * Modify `room` to have a `id` primary key.
     * Create another table, `schedule`, that has a `coursecode`, a `roomid`, and a `timeslotid`, and add an integrity constraint that requires the combination of `roomid`, and `timeslotid` to be unique--in other words, you can never have two different courses in the same room at the same time!
-
-* 
